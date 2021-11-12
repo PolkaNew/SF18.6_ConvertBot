@@ -1,3 +1,3 @@
 # SF18.6_ConvertBot
 
-Имя бота в Telegramm  @ConvertTestBot
+Имя бота в Telegram  @ConvertTestBot
